@@ -4,6 +4,7 @@
 .Renviron
 rsconnect/
 *.tif
+!data/klasifikasi.tif
 *.tiff
 *.jp2
 *.zip
