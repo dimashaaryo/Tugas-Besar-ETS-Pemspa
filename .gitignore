@@ -1,0 +1,9 @@
+.RData
+.Rhistory
+.Rproj.user/
+.Renviron
+rsconnect/
+*.tif
+*.tiff
+*.jp2
+*.zip
